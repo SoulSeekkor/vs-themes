@@ -1400,7 +1400,7 @@
       </Color>
       <Color Name="punctuation">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+        <Foreground Type="CT_RAW" Source="FF7782FA" />
       </Color>
       <Color Name="interface name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1436,7 +1436,7 @@
       </Color>
       <Color Name="preprocessor text">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+        <Foreground Type="CT_RAW" Source="FFB209A5" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedDefinition">
         <Background Type="CT_RAW" Source="FFA154D0" />
