@@ -1412,7 +1412,7 @@
       </Color>
       <Color Name="enum name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB8D7A3" />
+        <Foreground Type="CT_RAW" Source="FFB7BCFB" />
       </Color>
       <Color Name="module name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1420,7 +1420,7 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF7782FA" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1842,109 +1842,297 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="Python operator">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB4B4B4" />
-      </Color>
-      <Color Name="Python grouping">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB4B4B4" />
-      </Color>
-      <Color Name="Python comma">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB4B4B4" />
-      </Color>
-      <Color Name="Python dot">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB4B4B4" />
-      </Color>
-      <Color Name="Python class">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
-      </Color>
-      <Color Name="Python module">
+      <Color Name="PowerShell Variable">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="Python parameter">
+      <Color Name="PowerShell Unknown">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB4B4B4" />
+        <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
-      <Color Name="Python function">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="Python builtin">
+      <Color Name="PowerShell Type">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="Django template tag">
+      <Color Name="PowerShell String">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="Python Interactive - Black">
+      <Color Name="PowerShell Operator">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="Python Interactive - Blue">
+      <Color Name="PowerShell Number">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0000FF" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="Python Interactive - Cyan">
+      <Color Name="PowerShell Member">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00FFFF" />
+        <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
-      <Color Name="Python Interactive - DarkBlue">
+      <Color Name="PowerShell Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF000080" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="Python Interactive - DarkCyan">
+      <Color Name="PowerShell Comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00A0A0" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="Python Interactive - DarkGray">
+      <Color Name="PowerShell Command">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF505050" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="Python Interactive - DarkGreen">
+      <Color Name="PowerShell Attribute">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF005000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="Python Interactive - DarkMagenta">
+      <Color Name="PowerShell Group End">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF008080" />
+        <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
-      <Color Name="Python Interactive - DarkRed">
+      <Color Name="PowerShell Group Start">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF6666" />
+        <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
-      <Color Name="Python Interactive - DarkYellow">
+      <Color Name="PowerShell Command Argument">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF505000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="Python Interactive - Gray">
+      <Color Name="PowerShell Line Continuation">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF707070" />
+        <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
-      <Color Name="Python Interactive - Green">
+      <Color Name="PowerShell Loop Label">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF95DB7D" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="Python Interactive - Magenta">
+      <Color Name="PowerShell Command Parameter">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD000D0" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="Python Interactive - Red">
+      <Color Name="PowerShell Statement Separator">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF4040" />
+        <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
-      <Color Name="Python Interactive - White">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      <Color Name="MarkerFormatDefinition/HighlightMatchedBracesFormatDefinition">
+        <Background Type="CT_RAW" Source="FF083C5A" />
+        <Foreground Type="CT_RAW" Source="FFADC0D3" />
       </Color>
-      <Color Name="Python Interactive - Yellow">
+      <Color Name="R Markdown Alt Text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFFF00" />
+        <Foreground Type="CT_RAW" Source="FFCE9178" />
+      </Color>
+      <Color Name="R Markdown Monospace">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA0A0A0" />
+      </Color>
+      <Color Name="R Markdown List Item">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="0078A028" />
+      </Color>
+      <Color Name="R Markdown Bold Italic Text">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="008C64D2" />
+      </Color>
+      <Color Name="R Markdown Bold Text">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="008C64D2" />
+      </Color>
+      <Color Name="R Markdown Italic Text">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="008C64D2" />
+      </Color>
+      <Color Name="R Markdown Blockquote">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF006400" />
+      </Color>
+      <Color Name="R Markdown Heading">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF569CD6" />
+      </Color>
+      <Color Name="R Markdown Code Background">
+        <Background Type="CT_RAW" Source="FFF8F8F8" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - Black">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - DarkRed">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - DarkGreen">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - DarkYellow">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - DarkBlue">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - DarkMagenta">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - DarkCyan">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - Gray">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - DarkGray">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - Red">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - Green">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - Yellow">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - Blue">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - Magenta">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - Cyan">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="PowerShell Interactive - White">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="RD Braces">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Roxygen Keyword">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Roxygen Export">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="R Type Function">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="R Function Default Parameter">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="R Function Reference">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="JadeKeywordFormatDefinition">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="JadeFilterFormatDefinition">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="JadeClassLiteralFormatDefinition">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="JadeIdLiteralFormatDefinition">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="JadeVariableFormatDefinition">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="RReplPromptFormat">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - Error">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - Black">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - DarkRed">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - DarkGreen">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - DarkYellow">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - DarkBlue">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - DarkMagenta">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - DarkCyan">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - Gray">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - DarkGray">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - Red">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - Green">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - Yellow">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - Blue">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - Magenta">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - Cyan">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Node.js Interactive - White">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
