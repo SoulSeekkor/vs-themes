@@ -1752,7 +1752,7 @@
       </Color>
       <Color Name="s.semantic-colorizer.enum-field">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFE5C6F8" />
       </Color>
       <Color Name="s.semantic-colorizer.extension-method">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1776,7 +1776,7 @@
       </Color>
       <Color Name="s.semantic-colorizer.parameter">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4335FE" />
+        <Foreground Type="CT_RAW" Source="FF5C8F79" />
       </Color>
       <Color Name="s.semantic-colorizer.namespace">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8388,7 +8388,7 @@
       </Color>
       <Color Name="Collapsible Text (Collapsed)">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFD9465D" />
       </Color>
       <Color Name="Collapsible Text (Expanded)">
         <Background Type="CT_INVALID" Source="00000000" />
