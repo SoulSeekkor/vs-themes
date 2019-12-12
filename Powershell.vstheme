@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Powershell" GUID="{8f1b6c11-b134-4ef8-812f-73594612ae1e}">
+  <Theme Name="Powershell V2" GUID="{23b2e85b-dfa0-4775-b36b-d6bdf2528c61}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -1016,7 +1016,7 @@
       </Color>
       <Color Name="Preprocessor Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB209A5" />
+        <Foreground Type="CT_RAW" Source="FFD50626" />
       </Color>
       <Color Name="Operator">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1436,7 +1436,7 @@
       </Color>
       <Color Name="preprocessor text">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB209A5" />
+        <Foreground Type="CT_RAW" Source="FFD9465D" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedDefinition">
         <Background Type="CT_RAW" Source="FFA154D0" />
@@ -1748,11 +1748,11 @@
       </Color>
       <Color Name="s.semantic-colorizer.field">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
+        <Foreground Type="CT_RAW" Source="FF6AF1FA" />
       </Color>
       <Color Name="s.semantic-colorizer.enum-field">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFE5C6F8" />
       </Color>
       <Color Name="s.semantic-colorizer.extension-method">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1760,11 +1760,11 @@
       </Color>
       <Color Name="s.semantic-colorizer.static-method">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
+        <Foreground Type="CT_RAW" Source="FFF5F5A7" />
       </Color>
       <Color Name="s.semantic-colorizer.normal-method">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
+        <Foreground Type="CT_RAW" Source="FFF5F5A7" />
       </Color>
       <Color Name="s.semantic-colorizer.constructor">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1776,7 +1776,7 @@
       </Color>
       <Color Name="s.semantic-colorizer.parameter">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF5C8F79" />
       </Color>
       <Color Name="s.semantic-colorizer.namespace">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1788,7 +1788,7 @@
       </Color>
       <Color Name="s.semantic-colorizer.local">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
+        <Foreground Type="CT_RAW" Source="FF6AF1FA" />
       </Color>
       <Color Name="s.semantic-colorizer.type-special">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7968,7 +7968,7 @@
     <Category Name="Text Editor Language Service Items" GUID="{e0187991-b458-4f7e-8ca9-42c9a573b56c}">
       <Color Name="Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC586C0" />
+        <Foreground Type="CT_RAW" Source="FFCA60C1" />
       </Color>
       <Color Name="Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -8388,7 +8388,7 @@
       </Color>
       <Color Name="Collapsible Text (Collapsed)">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFD9465D" />
       </Color>
       <Color Name="Collapsible Text (Expanded)">
         <Background Type="CT_INVALID" Source="00000000" />
