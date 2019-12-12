@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Powershell V4" GUID="{6ce20891-bf36-4c98-89b3-aed75ba826fe}">
+  <Theme Name="Powershell" GUID="{6ce20891-bf36-4c98-89b3-aed75ba826fe}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -1278,8 +1278,8 @@
         <Foreground Type="CT_RAW" Source="FFB4B4B4" />
       </Color>
       <Color Name="HTML Server-Side Script">
-        <Background Type="CT_RAW" Source="FFFFFFB3" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFFFCDB3" />
       </Color>
       <Color Name="HTML Tag Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1558,7 +1558,7 @@
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="RazorCode">
-        <Background Type="CT_RAW" Source="FF505050" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="RazorTagHelperAttribute">
