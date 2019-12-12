@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Powershell V2" GUID="{23b2e85b-dfa0-4775-b36b-d6bdf2528c61}">
+  <Theme Name="Powershell V3" GUID="{23b2e85b-dfa0-4775-b36b-d6bdf2528c61}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -1748,7 +1748,7 @@
       </Color>
       <Color Name="s.semantic-colorizer.field">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF6AF1FA" />
+        <Foreground Type="CT_RAW" Source="FF895FC6" />
       </Color>
       <Color Name="s.semantic-colorizer.enum-field">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1776,7 +1776,7 @@
       </Color>
       <Color Name="s.semantic-colorizer.parameter">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF5C8F79" />
+        <Foreground Type="CT_RAW" Source="FF1AB997" />
       </Color>
       <Color Name="s.semantic-colorizer.namespace">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1788,15 +1788,11 @@
       </Color>
       <Color Name="s.semantic-colorizer.local">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF6AF1FA" />
+        <Foreground Type="CT_RAW" Source="FF1FF1FF" />
       </Color>
       <Color Name="s.semantic-colorizer.type-special">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
-      <Color Name="s.semantic-colorizer.type-normal">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF5562FA" />
       </Color>
       <Color Name="Peek History Selected">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2038,10 +2034,6 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="R Function Reference">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
       <Color Name="JadeKeywordFormatDefinition">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
@@ -2131,6 +2123,38 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Node.js Interactive - White">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="R Function">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.local-function">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.class">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.interface">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.event">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC25924" />
+      </Color>
+      <Color Name="s.semantic-colorizer.struct">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.enum">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.delegate">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
