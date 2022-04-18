@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSPowerShellTheme" GUID="{002ebb46-8683-4bec-b33c-392e25f2599f}" BaseGUID="{4166cc76-69ae-4773-82b5-a8c9035ffdbd}">
+  <Theme Name="VSPowerShellTheme" GUID="{0eecab62-8819-4aa1-9b33-010930927a97}" BaseGUID="{4166cc76-69ae-4773-82b5-a8c9035ffdbd}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -5648,7 +5648,7 @@
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
+        <Foreground Type="CT_RAW" Source="FFF5F5A7" />
       </Color>
       <Color Name="extension method name">
         <Background Type="CT_INVALID" Source="00000000" />
