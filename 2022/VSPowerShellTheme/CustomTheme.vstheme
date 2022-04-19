@@ -5095,8 +5095,8 @@
         <Foreground Type="CT_RAW" Source="FFC24B4B" />
       </Color>
       <Color Name="CurrentLineActiveFormat">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
-        <Foreground Type="CT_RAW" Source="FF282828" />
+        <Background Type="CT_RAW" Source="FF444444" />
+        <Foreground Type="CT_RAW" Source="FF013EE6" />
       </Color>
       <Color Name="deltadiff.remove.line">
         <Background Type="CT_RAW" Source="FF2D0000" />
