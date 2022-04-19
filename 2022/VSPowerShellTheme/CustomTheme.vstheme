@@ -5664,7 +5664,7 @@
       </Color>
       <Color Name="namespace name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF95A7F2" />
       </Color>
       <Color Name="label name">
         <Background Type="CT_INVALID" Source="00000000" />
