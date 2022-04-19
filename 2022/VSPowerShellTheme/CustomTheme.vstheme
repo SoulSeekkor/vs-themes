@@ -4836,7 +4836,7 @@
       </Color>
       <Color Name="enum name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FFB7BCFB" />
       </Color>
       <Color Name="interface name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5632,7 +5632,7 @@
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
+        <Foreground Type="CT_RAW" Source="FFD5C4FF" />
       </Color>
       <Color Name="constant name">
         <Background Type="CT_INVALID" Source="00000000" />
