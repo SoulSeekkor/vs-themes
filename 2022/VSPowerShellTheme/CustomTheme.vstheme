@@ -5640,7 +5640,7 @@
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
+        <Foreground Type="CT_RAW" Source="FF1ED3FF" />
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5648,7 +5648,7 @@
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDC4E" />
+        <Foreground Type="CT_RAW" Source="FFE2E293" />
       </Color>
       <Color Name="extension method name">
         <Background Type="CT_INVALID" Source="00000000" />
