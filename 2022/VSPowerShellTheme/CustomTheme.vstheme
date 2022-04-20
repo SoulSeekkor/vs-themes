@@ -5612,7 +5612,7 @@
       </Color>
       <Color Name="keyword - control">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFCC9DC8" />
+        <Foreground Type="CT_RAW" Source="FFD488CE" />
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5644,7 +5644,7 @@
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF90D8C9" />
+        <Foreground Type="CT_RAW" Source="FF1BB96F" />
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
