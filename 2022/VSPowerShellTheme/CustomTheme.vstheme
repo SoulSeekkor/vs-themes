@@ -5399,8 +5399,8 @@
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="brace matching">
-        <Background Type="CT_RAW" Source="FF1A251A" />
-        <Foreground Type="CT_RAW" Source="FF888888" />
+        <Background Type="CT_RAW" Source="FF3B63FF" />
+        <Foreground Type="CT_RAW" Source="FFCDD1FF" />
       </Color>
       <Color Name="Stale Code">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
