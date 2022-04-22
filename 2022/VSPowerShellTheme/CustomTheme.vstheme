@@ -5644,7 +5644,7 @@
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF1BB96F" />
+        <Foreground Type="CT_RAW" Source="FF1CA197" />
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5664,7 +5664,7 @@
       </Color>
       <Color Name="namespace name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF95A7F2" />
+        <Foreground Type="CT_RAW" Source="FFC6C6C6" />
       </Color>
       <Color Name="label name">
         <Background Type="CT_INVALID" Source="00000000" />
