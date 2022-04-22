@@ -5055,8 +5055,8 @@
         <Foreground Type="CT_RAW" Source="FF66C3E6" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
-        <Background Type="CT_RAW" Source="FF474747" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF6D6807" />
+        <Foreground Type="CT_RAW" Source="FFFE0000" />
       </Color>
       <Color Name="MarkerFormatDefinition/FindHighlight">
         <Background Type="CT_RAW" Source="FF773800" />
@@ -5379,8 +5379,8 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedDefinition">
-        <Background Type="CT_RAW" Source="FF083D5A" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF823B06" />
+        <Foreground Type="CT_RAW" Source="FFFE0000" />
       </Color>
       <Color Name="RenameTrackingTag">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
