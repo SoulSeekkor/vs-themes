@@ -5379,7 +5379,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedDefinition">
-        <Background Type="CT_RAW" Source="FF823B06" />
+        <Background Type="CT_RAW" Source="FFE06C15" />
         <Foreground Type="CT_RAW" Source="FFFE0000" />
       </Color>
       <Color Name="RenameTrackingTag">
@@ -5395,8 +5395,8 @@
         <Foreground Type="CT_COLORINDEX" Source="00000002" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedWrittenReference">
-        <Background Type="CT_RAW" Source="FF083D5A" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF1EAA2E" />
+        <Foreground Type="CT_RAW" Source="FF0EF728" />
       </Color>
       <Color Name="brace matching">
         <Background Type="CT_RAW" Source="FF3B63FF" />
