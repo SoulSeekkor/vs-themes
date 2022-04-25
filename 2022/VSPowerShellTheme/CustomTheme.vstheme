@@ -2554,7 +2554,7 @@
         <Background Type="CT_RAW" Source="FFBBBBBB" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FF3C3C3C" />
+        <Background Type="CT_RAW" Source="FF282828" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientEnd">
         <Background Type="CT_RAW" Source="FF3C3C3C" />
@@ -3314,7 +3314,7 @@
         <Background Type="CT_RAW" Source="FF0E639C" />
       </Color>
       <Color Name="MainWindowActiveCaption">
-        <Background Type="CT_RAW" Source="FF3C3C3C" />
+        <Background Type="CT_RAW" Source="FF282828" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="MainWindowActiveDebuggingBorder">
@@ -3389,7 +3389,7 @@
         <Background Type="CT_RAW" Source="FF434346" />
       </Color>
       <Color Name="MainWindowInactiveCaption">
-        <Background Type="CT_RAW" Source="FF3C3C3C" />
+        <Background Type="CT_RAW" Source="FF282828" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="MainWindowInactiveIconBuilding">
@@ -3411,16 +3411,16 @@
         <Background Type="CT_RAW" Source="7F000000" />
       </Color>
       <Color Name="MainWindowSolutionNameActiveBackground">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="MainWindowSolutionNameActiveText">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FFA578DC" />
       </Color>
       <Color Name="MainWindowSolutionNameInactiveBackground">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="MainWindowSolutionNameInactiveText">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FFA578DC" />
       </Color>
       <Color Name="MdiClientBorder">
         <Background Type="CT_RAW" Source="FF333337" />
