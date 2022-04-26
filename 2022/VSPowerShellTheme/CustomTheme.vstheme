@@ -2545,7 +2545,7 @@
         <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="CommandBarToolBarBorder">
-        <Background Type="CT_RAW" Source="FF3C3C3C" />
+        <Background Type="CT_RAW" Source="FF282828" />
       </Color>
       <Color Name="CommandBarToolBarSeparator">
         <Background Type="CT_RAW" Source="FFBBBBBB" />
