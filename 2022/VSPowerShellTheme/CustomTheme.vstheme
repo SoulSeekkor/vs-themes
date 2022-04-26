@@ -2563,13 +2563,13 @@
         <Background Type="CT_RAW" Source="FF3C3C3C" />
       </Color>
       <Color Name="CommandShelfHighlightGradientBegin">
-        <Background Type="CT_RAW" Source="FF3C3C3C" />
+        <Background Type="CT_RAW" Source="FF282828" />
       </Color>
       <Color Name="CommandShelfHighlightGradientEnd">
-        <Background Type="CT_RAW" Source="FF3C3C3C" />
+        <Background Type="CT_RAW" Source="FF282828" />
       </Color>
       <Color Name="CommandShelfHighlightGradientMiddle">
-        <Background Type="CT_RAW" Source="FF3C3C3C" />
+        <Background Type="CT_RAW" Source="FF282828" />
       </Color>
       <Color Name="CompletionBorder">
         <Background Type="CT_RAW" Source="FF3C3C3C" />
