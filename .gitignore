@@ -1,6 +1,6 @@
 syntax: glob
 **/bin/*
 **/obj/*
-*.vs/*
+**/.vs/*
 *.user
 *.suo
