@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSPowerShellTheme" GUID="{c131c9c9-86d1-466e-8cba-b61d15fa6dc3}" BaseGUID="{4166cc76-69ae-4773-82b5-a8c9035ffdbd}">
+  <Theme Name="VSPowerShellTheme" GUID="{5c43921b-ca30-4d0e-b10c-62b6010a4bda}" BaseGUID="{4166cc76-69ae-4773-82b5-a8c9035ffdbd}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2A2D2E" />
@@ -5005,7 +5005,7 @@
       </Color>
       <Color Name="namespace name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FFC6C6C6" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5133,7 +5133,7 @@
       </Color>
       <Color Name="Line Number">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF858585" />
+        <Foreground Type="CT_RAW" Source="FF2B91AF" />
       </Color>
       <Color Name="outlining.verticalrule">
         <Background Type="CT_INVALID" Source="00000000" />
