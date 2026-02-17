@@ -5425,7 +5425,7 @@
       </Color>
       <Color Name="regex - grouping">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC49AF3" />
+        <Foreground Type="CT_RAW" Source="FF05C3BA" />
       </Color>
       <Color Name="regex - alternation">
         <Background Type="CT_INVALID" Source="00000000" />
