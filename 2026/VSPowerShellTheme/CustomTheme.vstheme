@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSPowerShellTheme" GUID="{ec1c57f7-ee5c-4c95-b36a-2798866cc19a}" BaseGUID="{4166cc76-69ae-4773-82b5-a8c9035ffdbd}">
+  <Theme Name="VSPowerShellTheme" GUID="{5ae5b97b-b840-43ad-adc0-e06fd51600b4}" BaseGUID="{4166cc76-69ae-4773-82b5-a8c9035ffdbd}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2A2D2E" />
@@ -5116,8 +5116,8 @@
         <Foreground Type="CT_RAW" Source="FFD4D4D4" />
       </Color>
       <Color Name="CurrentLineActiveFormat">
-        <Background Type="CT_RAW" Source="FF013EE6" />
-        <Foreground Type="CT_RAW" Source="FF732597" />
+        <Background Type="CT_RAW" Source="FF732597" />
+        <Foreground Type="CT_RAW" Source="FF013EE6" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
         <Background Type="CT_RAW" Source="FF474747" />
