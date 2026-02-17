@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSPowerShellTheme" GUID="{4bef9eef-d623-425e-935e-818393ff243d}" BaseGUID="{4166cc76-69ae-4773-82b5-a8c9035ffdbd}">
+  <Theme Name="VSPowerShellTheme" GUID="{5bcf3b19-ec20-43f9-97dd-28167a6c54a2}" BaseGUID="{4166cc76-69ae-4773-82b5-a8c9035ffdbd}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2A2D2E" />
@@ -6501,7 +6501,7 @@
       </Color>
       <Color Name="s.semantic-colorizer.namespace">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF5FF78" />
+        <Foreground Type="CT_RAW" Source="FFC627B9" />
       </Color>
       <Color Name="s.semantic-colorizer.property">
         <Background Type="CT_INVALID" Source="00000000" />
