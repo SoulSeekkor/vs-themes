@@ -5029,7 +5029,7 @@
       </Color>
       <Color Name="property name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF7782FA" />
+        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
       </Color>
       <Color Name="event name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5061,11 +5061,11 @@
       </Color>
       <Color Name="punctuation">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD4D4D4" />
+        <Foreground Type="CT_RAW" Source="FF7782FA" />
       </Color>
       <Color Name="brace matching">
-        <Background Type="CT_RAW" Source="FF1A251A" />
-        <Foreground Type="CT_RAW" Source="FF888888" />
+        <Background Type="CT_RAW" Source="FFCDD1FF" />
+        <Foreground Type="CT_RAW" Source="FF3B63FF" />
       </Color>
       <Color Name="HTML Comment">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5116,8 +5116,8 @@
         <Foreground Type="CT_RAW" Source="FFD4D4D4" />
       </Color>
       <Color Name="CurrentLineActiveFormat">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
-        <Foreground Type="CT_RAW" Source="FF282828" />
+        <Background Type="CT_RAW" Source="FF732597" />
+        <Foreground Type="CT_RAW" Source="FF013EE6" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
         <Background Type="CT_RAW" Source="FF474747" />
@@ -7724,7 +7724,7 @@
     <Category Name="Text Editor Text Marker Items" GUID="{ff349800-ea43-46c1-8c98-878e78f46501}">
       <Color Name="Collapsible Text (Collapsed)">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFCE9178" />
+        <Foreground Type="CT_RAW" Source="FFB1171E" />
       </Color>
       <Color Name="Read-Only Region">
         <Background Type="CT_RAW" Source="FF5A5A5A" />
