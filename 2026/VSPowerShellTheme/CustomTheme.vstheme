@@ -9729,7 +9729,7 @@
         <Background Type="CT_RAW" Source="FF1C1C1C" />
       </Color>
       <Color Name="EnvironmentBadge">
-        <Background Type="CT_RAW" Source="0FFFFFFF" />
+        <Background Type="CT_RAW" Source="8C005FB7" />
       </Color>
       <Color Name="EnvironmentBorder">
         <Background Type="CT_RAW" Source="FF9184EE" />
